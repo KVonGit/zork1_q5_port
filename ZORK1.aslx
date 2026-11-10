@@ -1,4 +1,4 @@
-<!--Saved by Quest 5.8.6836.13983-->
+<!--Saved by Quest 5.9.9166.36226-->
 <asl version="580">
   <include ref="English.aslx" />
   <include ref="Core.aslx" />
@@ -12,7 +12,7 @@
   <include ref="z1globals.aslx" />
   <game name="ZORK I: The Great Underground Empire">
     <gameid>qcode-z1-0-261109-quest590</gameid>
-    <version>0.15</version>
+    <version>0.16</version>
     <release type="int">0</release>
     <serial type="int">261109</serial>
     <firstpublished>2026</firstpublished>
